@@ -4,7 +4,7 @@ Submitted by **Yudhiishbala Senthilkumar**
 
 This web app explores floral artwork across a live sample of The Metropolitan Museum of Art collection. It shows artwork details, collection statistics, and filters that help visitors compare departments and eras.
 
-Time spent **2 hours** in total
+Time spent **0.5 hours** in total
 
 ## Required Features
 
